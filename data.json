@@ -1,0 +1,53 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-06-11",
+  "base_url": "https://raw.githubusercontent.com/almaskhan7898/pb-catalog/main",
+  "categories": [
+    {
+      "id": "asthetic_dark",
+      "label": "Asthetic Dark",
+      "description": "Moody, cinematic portraits with dramatic lighting and powerful presence",
+      "icon": "moon",
+      "sort_order": 1,
+      "styles": [
+        {
+          "id": "the_mafia_boss",
+          "label": "The Mafia Boss",
+          "description": "Dark cinematic power portrait with commanding presence and dramatic shadows",
+          "thumb": "thumbnails/asthetic_dark__the_mafia_boss.jpg",
+          "image": "asthetic_dark/the_mafia_boss/1.png",
+          "all_images": [
+            "asthetic_dark/the_mafia_boss/1.png",
+            "asthetic_dark/the_mafia_boss/2.png",
+            "asthetic_dark/the_mafia_boss/3.png",
+            "asthetic_dark/the_mafia_boss/4.png",
+            "asthetic_dark/the_mafia_boss/5.png",
+            "asthetic_dark/the_mafia_boss/6.png"
+          ],
+          "prompt_hint": "dark cinematic suit, moody lighting, powerful confident pose, dramatic shadows, mafia boss aesthetic, intense gaze",
+          "tier": "free",
+          "tags": ["cinematic", "dark", "power"],
+          "sort_order": 1
+        },
+        {
+          "id": "the_quiet_billionaire",
+          "label": "The Quiet Billionaire",
+          "description": "Understated luxury portrait with refined elegance and subtle wealth",
+          "thumb": "thumbnails/asthetic_dark__the_quiet_billionaire.jpg",
+          "image": "asthetic_dark/the_quiet_billionaire/1.png",
+          "all_images": [
+            "asthetic_dark/the_quiet_billionaire/1.png",
+            "asthetic_dark/the_quiet_billionaire/2.png",
+            "asthetic_dark/the_quiet_billionaire/3.png",
+            "asthetic_dark/the_quiet_billionaire/4.png",
+            "asthetic_dark/the_quiet_billionaire/5.png"
+          ],
+          "prompt_hint": "understated luxury, muted dark tones, wealthy elegance, subtle power, refined portrait, quiet confidence, premium tailoring",
+          "tier": "creator",
+          "tags": ["luxury", "elegant", "billionaire"],
+          "sort_order": 2
+        }
+      ]
+    }
+  ]
+}
