@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-11",
+  "updated_at": "2026-06-13",
   "base_url": "https://raw.githubusercontent.com/almaskhan7898/pb-catalog/main",
   "categories": [
     {
@@ -46,6 +46,61 @@
           "tier": "creator",
           "tags": ["luxury", "elegant", "billionaire"],
           "sort_order": 2
+        }
+      ]
+    },
+    {
+      "id": "matrimonial",
+      "label": "Matrimonial",
+      "description": "Polished groom portraits in traditional and modern attire for matrimonial profiles",
+      "icon": "heart",
+      "sort_order": 2,
+      "styles": [
+        {
+          "id": "groom_ready_male",
+          "label": "Groom Ready Male",
+          "description": "Diverse groom looks from sherwani and kurta to formal suits and cultural wedding attire",
+          "thumb": "thumbnails/matrimonial__groom_ready_male.jpg",
+          "image": "matrimonial/groom_ready_male/1.png",
+          "all_images": [
+            "matrimonial/groom_ready_male/1.png",
+            "matrimonial/groom_ready_male/2.png",
+            "matrimonial/groom_ready_male/3.png",
+            "matrimonial/groom_ready_male/4.png",
+            "matrimonial/groom_ready_male/5.png",
+            "matrimonial/groom_ready_male/6.png",
+            "matrimonial/groom_ready_male/7.png",
+            "matrimonial/groom_ready_male/8.png",
+            "matrimonial/groom_ready_male/9.png",
+            "matrimonial/groom_ready_male/10.png",
+            "matrimonial/groom_ready_male/11.png",
+            "matrimonial/groom_ready_male/12.png",
+            "matrimonial/groom_ready_male/13.png",
+            "matrimonial/groom_ready_male/14.png",
+            "matrimonial/groom_ready_male/15.png",
+            "matrimonial/groom_ready_male/16.png",
+            "matrimonial/groom_ready_male/17.png",
+            "matrimonial/groom_ready_male/18.png",
+            "matrimonial/groom_ready_male/19.png",
+            "matrimonial/groom_ready_male/20.png",
+            "matrimonial/groom_ready_male/21.png",
+            "matrimonial/groom_ready_male/22.png",
+            "matrimonial/groom_ready_male/23.png",
+            "matrimonial/groom_ready_male/24.png",
+            "matrimonial/groom_ready_male/25.png",
+            "matrimonial/groom_ready_male/26.png",
+            "matrimonial/groom_ready_male/27.png",
+            "matrimonial/groom_ready_male/28.png",
+            "matrimonial/groom_ready_male/29.png",
+            "matrimonial/groom_ready_male/30.png",
+            "matrimonial/groom_ready_male/31.png",
+            "matrimonial/groom_ready_male/32.png",
+            "matrimonial/groom_ready_male/33.png"
+          ],
+          "prompt_hint": "groom portrait, matrimonial profile, sherwani, kurta, formal suit, wedding attire, warm lighting, confident smile, polished presentation",
+          "tier": "free",
+          "tags": ["matrimonial", "groom", "traditional"],
+          "sort_order": 1
         }
       ]
     }
